@@ -1,2 +1,16 @@
-# REMES-EU-MultiFutures
-Repository of the REMES-EU model and related input and output data for the MultiFutures project.
+# REMES-EU MultiFutures
+
+Versions of the REMES model used for analyzing the case studies under the MultiFutures project.
+
+How To Use REMES-EU
+
+1- Open the REMES-EU.gpr file to load the project in GAMS
+
+2- Load the file REMES_Base.gms
+
+3- Select one of the CaseStudies in $set CaseStudy
+
+4- Click Run
+
+There are three groups of results a. Full results (outputREMES.gdx) b. KPIs (KPIs.gdx)
+The results in IAMC format are in REMESOE2.csv
